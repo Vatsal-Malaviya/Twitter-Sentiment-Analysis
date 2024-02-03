@@ -1,4 +1,5 @@
 # Twitter Sentiment Analysis
+![Flake8 Status](https://github.com/Vatsal-Malaviya/Twitter-Sentiment-Analysis/actions/workflows/ci.yml/badge.svg?branch=main)
 
 ## Overview
 This project is dedicated to performing sentiment analysis on Twitter data. The goal is to understand the sentiments expressed in tweets using advanced neural network architectures, including Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM) networks, and Gated Recurrent Units (GRU).
